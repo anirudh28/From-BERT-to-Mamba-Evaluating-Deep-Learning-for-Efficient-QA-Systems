@@ -1,7 +1,7 @@
 
 # From BERT to Mamba: Evaluating Deep Learning for Efficient QA Systems
 
-This repository contains the implementation and results of our project, **"From BERT to Mamba: Evaluating Deep Learning for Efficient QA Systems"**, which explores the trade-offs between accuracy and computational efficiency in question-answering (QA) systems. Our work compares several deep learning models, including BERT, T5, LSTM, and Mamba, focusing on their performance on the SQuAD 2.0 dataset.
+This repository contains the implementation and results of our project, **"From BERT to Mamba: Evaluating Deep Learning for Efficient QA Systems"**, which explores the trade-offs between accuracy and computational efficiency in question-answering (QA) systems. This work compares several deep learning models, including BERT, T5, LSTM, and Mamba, focusing on their performance on the SQuAD 2.0 dataset.
 
 ## Table of Contents
 - [Introduction](#introduction)
